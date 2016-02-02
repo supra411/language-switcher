@@ -9,22 +9,20 @@ Dependencies
 js.cookie (https://github.com/js-cookie/js-cookie)
 jQuery
 
-Starting
+
+Starting Out
+
 Put in the following code in your html files:
+
 <script src=“language-switcher.js"></script>
 
 You can change the following variables to reflect the CSS in your site:
 
 var optionFirst //div of language on left.
-
 var optionSecond //div of language on right.
-
 var buttonFirst //button div of language on left.
-
 var buttonSecond //button div of language on right.
-
 var langOne //For button to switch language.  The first language.
-
 var langTwo //For button to switch language.  The second language.
 
 
