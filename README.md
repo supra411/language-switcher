@@ -6,6 +6,7 @@ different languages when the site is being viewed in mobile sizes,
 while display both when the screen size allows it.
 
 Dependencies
+
 js.cookie (https://github.com/js-cookie/js-cookie)
 jQuery
 
